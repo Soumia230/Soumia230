@@ -25,7 +25,7 @@ I love turning manual processes into predictable, scalable workflows.
 
 - 🌱 Forever learning, growing, and sharing knowledge  
 - 🚀 Working with **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Jenkins**, and modern **CI/CD pipelines**  
-- 🌍 Based in **Lindenhurst, Illinois**  
+- 🌍 Based in **chicago,Illinois**  
 - 🖥️ Check out my portfolio: [your link here]  
 
 ---
