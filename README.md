@@ -22,8 +22,8 @@ I love turning manual processes into predictable, scalable workflows.
 ---
 
 ## ☕ About Me
-
-- 🌱 Forever learning, growing, and sharing knowledge  
+- 🚶‍♀️ Fueled by momentum and inspired by long walks — that’s where I do my best thinking and planning.
+- 🌱 Continuously learning, evolving, and sharing what I know. 
 - 🚀 Working with **AWS**, **Kubernetes**, **Docker**, **Terraform**, **Jenkins**, and modern **CI/CD pipelines**  
 - 🌍 Based in **chicago,Illinois**  
 - 🖥️ Check out my portfolio: [your link here]  
